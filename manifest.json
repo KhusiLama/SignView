@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Sign Language Video Accessibility",
+    "version": "1.0",
+    "description": "Provides sign language interpretation for video content.",
+    "permissions": ["activeTab"],
+    "action": {
+      "default_popup": "index.html"
+    }
+}
