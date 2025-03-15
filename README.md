@@ -24,4 +24,4 @@ The **Sign View - Sign Language Video Accessibility Extension** is a browser ext
 1. Open your terminal.
 2. Clone the repository using the following command:
    ```bash
-   git clone https://github.com/your-username/sign-language-video-accessibility.git
+   git clone https://github.com/KhusiLama/SignView.git
